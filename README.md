@@ -8,13 +8,13 @@ Users can manually navigate through testimonials using next/previous buttons. Th
 ---
 ### Table of content
 
-[Description](#description)
-[Features](#features)
-[Techstack](#techstack)
-[Installation & Setup](#installation--setup)
-[Sample output](#sample-output)
-[Contributing](#contributing)
-[Contact](#contact)
+[Description](#description)<br>
+[Features](#features)<br>
+[Techstack](#techstack)<br>
+[Installation & Setup](#installation--setup)<br>
+[Sample output](#sample-output)<br>
+[Contributing](#contributing)<br>
+[Contact](#contact)<br>
 
 ---
 ### Features
@@ -52,8 +52,8 @@ Users can manually navigate through testimonials using next/previous buttons. Th
       https://github.com/SowmyaT-157/testimonial-slider
 2. To install the dependencies
     [Node.js](https://nodejs.org/en/download)
-3. To start the project use below command in the terminal
-      node index.js
+3. To start the project use below command in the terminal.
+> node index.js
    
 ---
 ### Contributing
