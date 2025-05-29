@@ -23,9 +23,9 @@ const testimonial = [
 ];
 
 
-const imgE1 = document.querySelector(".img")
+const imgE1 = document.querySelector(".myImage")
 const textE1 = document.querySelector(".text")
-const usernameE1 = document.querySelector("username")
+const usernameE1 = document.querySelector(".username")
 
 let idx = 0;
 
@@ -42,7 +42,7 @@ function updateTestimonial(){
     }
     setTimeout(() => {
             updateTestimonial();
-    },1000);
+    },2000);
    
 
 }
